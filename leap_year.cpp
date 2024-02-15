@@ -38,6 +38,6 @@ int main() {
             cout << "The year " << yin << " is not a leap year\n";
         }
     } else {
-        cout << "Please enter a 4 digit year such as 2024\n";
+        cout << "Please enter a 4 digit year such as 2024!\n";
     }
 }
